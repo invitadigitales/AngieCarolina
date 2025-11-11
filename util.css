@@ -4292,10 +4292,20 @@ h4 {
 .text_shadow_olivo{
     text-shadow: 3px 3px 0px #878d7056;
 }
-.text_shadow_oro{
+.text_shadow_golden{
     text-shadow: 3px 3px 0px #b7a46c49;
 }
 
+.d_felx{
+    display: flex;
+}
+
+.justify_center{
+    justify-content: center;
+}
+.align_center{
+    align-items: center;
+}
 
 
 .text_shadow_light {

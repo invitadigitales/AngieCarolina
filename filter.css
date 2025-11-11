@@ -29,7 +29,9 @@
 /* ===========================================
    FILTROS DE SEPIA
    =========================================== */
-
+.filtro_olivo {
+    filter: invert(60%) sepia(7%) saturate(493%) hue-rotate(28deg) brightness(85%) contrast(87%);
+}
 /* Sepias básicos en incrementos de 10% */
 .filter_sepia_0 { filter: sepia(0%) !important; }
 .filter_sepia_10 { filter: sepia(10%) !important; }
